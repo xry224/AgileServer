@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="android-29">
     <CLASSES>
-      <root url="file://D:/Java/AndroidSDK/platforms/android-29" />
+      <root url="file://$PROJECT_DIR$/libs/android-29" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="file://D:/Java/AndroidSDK/platforms/android-29" />
+      <root url="file://$PROJECT_DIR$/libs/android-29" />
     </SOURCES>
-    <jarDirectory url="file://D:/Java/AndroidSDK/platforms/android-29" recursive="false" />
-    <jarDirectory url="file://D:/Java/AndroidSDK/platforms/android-29" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/android-29" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/android-29" recursive="false" type="SOURCES" />
   </library>
 </component>
