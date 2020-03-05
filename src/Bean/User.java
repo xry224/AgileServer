@@ -21,7 +21,7 @@ public class User implements Serializable {
     private ArrayList<Event> eventList;
     //评论列表
     private ArrayList<Comment> comments;
-    //参与的所有活动的历史记录
+    //参与的所有活动的历史记录，此列表内容包括eventList，或许可以去掉eventList，使用时根据Event中的founder属性进行筛选
     private ArrayList<Event> historyEvent;
     //需要通知的活动
     //通知功能暂时不考虑
