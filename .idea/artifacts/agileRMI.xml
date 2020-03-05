@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="agileRMI">
+    <output-path>$PROJECT_DIR$/out/artifacts/agileRMI</output-path>
+    <root id="archive" name="agileRMI.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/out/production/agileServer/Bean" />
+      <element id="dir-copy" path="$PROJECT_DIR$/out/production/agileServer/RMIInterface" />
+    </root>
+  </artifact>
+</component>
